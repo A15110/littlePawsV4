@@ -43,7 +43,7 @@ export default function ServiceRates() {
                 <p className="text-primary-600 font-semibold">30-Minute Visit: $22</p>
                 <ul className="mt-2 space-y-1 text-sm text-gray-600">
                   <li>• Holiday Rate: $37 (+$15)</li>
-                  <li>• Additional Dog: +$14</li>
+                  <li>• Additional Pet: +$14</li>
                   <li>• Puppy Rate: $25</li>
                 </ul>
               </div>
