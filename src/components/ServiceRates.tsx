@@ -102,7 +102,7 @@ export default function ServiceRates() {
         <div>
           <h3 className="text-lg font-semibold text-gray-900 mb-2">Additional Services</h3>
           <div className="bg-gray-50 rounded-lg p-4">
-            <p className="text-primary-600 font-semibold">Bathing / Grooming: +$50</p>
+            <p className="text-primary-600 font-semibold">Bathing: +$50</p>
           </div>
         </div>
 
